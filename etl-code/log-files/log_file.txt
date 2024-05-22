@@ -1,0 +1,8 @@
+2024-05-20 21:59:19.258395 UTC, ETL Job Started
+2024-05-20 21:59:19.258532 UTC, Extract phase Started
+2024-05-20 21:59:19.275569 UTC, Extract phase Ended
+2024-05-20 21:59:19.275684 UTC, Transform phase Started
+2024-05-20 21:59:19.282151 UTC, Transform phase Ended
+2024-05-20 21:59:19.282284 UTC, Load phase Started
+2024-05-20 21:59:19.283433 UTC, Load phase Ended
+2024-05-20 21:59:19.283508 UTC, ETL Job Ended
